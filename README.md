@@ -24,7 +24,7 @@ The following augmentations are included:
 5. Brightness augmentation
 6. Zoom
 
-Common Configuration
+# Common Configuration
 The following configurations is applied:
 
 1. Cyclic Learning
