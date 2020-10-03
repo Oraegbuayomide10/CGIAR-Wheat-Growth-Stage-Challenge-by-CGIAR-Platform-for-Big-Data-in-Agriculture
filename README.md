@@ -1,0 +1,2 @@
+# CGIAR-Wheat-Growth-Stage-Challenge-by-CGIAR-Platform-for-Big-Data-in-Agriculture
+Automates a part of a data processing pipeline by  estimating the growth stage of a wheat crop based on an image sent in by the farmer. The images are automatically cropped to show a section of the field. The model takes in an image and output a prediction for the growth stage of the wheat shown, on a scale from 1 (crop just showing) to 7 (mature crop).
