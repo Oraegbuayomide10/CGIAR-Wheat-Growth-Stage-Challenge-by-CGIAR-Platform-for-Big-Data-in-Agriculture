@@ -18,7 +18,7 @@ The following architecturs are included in the library of models:
 The following augmentations are included:
 
 1. Rotation
-2 .Random cropping and resizing
+2. Random cropping and resizing
 3. Horizontal flipping
 4. Wrapping
 5. Brightness augmentation
