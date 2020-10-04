@@ -3,12 +3,12 @@ Automates a part of a data processing pipeline by  estimating the growth stage o
 
 
 # Summary of Approach
-Create an ensemble from a library of diverse models with different architectures and augmentations. All models are pretrained models and they are fine-tuned on the dataset. Made use of Google Colab GPU.
+Create an ensemble from a library of diverse models with different  and augmentations. All models are pretrained models and they are fine-tuned on the dataset. Made use of Google Colab GPU.
 
-
+architectures
 # Model Architecture
 
-The following architecturs are included in the library of models:
+The following architectures are included in the library of models:
 
 1. Resnet
 2. Vgg16_bn
